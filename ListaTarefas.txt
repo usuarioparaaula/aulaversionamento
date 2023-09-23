@@ -1,2 +1,3 @@
 1 - Estudar programação
 2 - Visitar meus parentes
+3 - Estudar git
